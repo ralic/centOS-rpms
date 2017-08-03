@@ -1,0 +1,3 @@
+rpm -Uvh --replacefiles gcc-c++-7.1.1-6.fc27.x86_64.rpm libstdc++-7.1.1-6.fc27.i686.rpm libstdc++-devel-7.1.1-6.fc27.i686.rpm glibc-2.22-18.fc23.i686.rpm glibc-common-2.22-18.fc23.x86_64.rpm
+gcc-c++-7.1.1-6.fc27.x86_64.rpm libstdc++-7.1.1-6.fc27.i686.rpm libstdc++-devel-7.1.1-6.fc27.i686.rpm glibc-2.22-18.fc23.i686.rpm glibc-common-2.22-18.fc23.x86_64.rpm
+rpm -ivh --force
